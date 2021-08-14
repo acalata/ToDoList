@@ -1,0 +1,63 @@
+
+.container, body{
+  justify-content: center;
+  background: rgb(255, 254, 224);
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/*.text{
+  min-height: 20vh;
+  justify-content: center;
+  align-items: center; 
+  transform: translate(-50%, -50%);
+
+}
+*/
+ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  color: rgb(88, 88, 88)
+}
+
+ul li{
+  font-size: 5em;
+  letter-spacing: -8px;
+}
+
+to{
+  color: black;
+  text-;
+}
+
+.text .text2{
+  text-emphasis-color: blue;
+}
+
+.header, form{
+  min-height: 20vh;
+  justify-content: center;
+  align-items: center; 
+}
+
+.header, body{
+  justify-content: center;
+  align-items: center; 
+}
+form input,
+form button{
+  padding: 0.5rem;
+  font-size: 2rem;
+  border: none;
+  background: rgb(221, 221, 221);
+}
+.add-item i{
+  display: flex;
+  font-size: 40px;
+  color: rgb(255, 254, 224);
+}
